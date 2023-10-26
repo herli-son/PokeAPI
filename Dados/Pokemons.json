@@ -1,10 +1,10 @@
 [
     {
-        "numero": "001",
-        "nome": "Bulbasaur",
-        "tipoPrimario": "Grama",
-        "tipoSecundario": "Veneno",
-        "categoria": "Semente",
-        "habilidade": "Overgrow"
+        "Numero": "001",
+        "Nome": "Bulbasaur",
+        "TipoPrimario": "Grama",
+        "TipoSecundario": "Veneno",
+        "Categoria": "Semente",
+        "Habilidade": "Overgrow"
     }
 ]
