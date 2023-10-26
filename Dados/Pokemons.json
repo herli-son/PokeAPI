@@ -1,0 +1,10 @@
+[
+    {
+        "numero": "001",
+        "nome": "Bulbasaur",
+        "tipoPrimario": "Grama",
+        "tipoSecundario": "Veneno",
+        "categoria": "Semente",
+        "habilidade": "Overgrow"
+    }
+]
