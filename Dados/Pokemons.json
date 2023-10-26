@@ -7,5 +7,23 @@
         "Categoria": "Semente",
         "Habilidade": "Overgrow",
         "Descricao":"Há uma semente de planta nas costas desde o dia em que este Pokémon nasceu. A semente cresce lentamente."
+    },
+    {
+        "Numero": "002",
+        "Nome": "Ivysaur",
+        "TipoPrimario": "Grama",
+        "TipoSecundario": "Veneno",
+        "Categoria": "Semente",
+        "Habilidade": "Overgrow",
+        "Descricao":"Quando o bulbo em suas costas cresce, ele parece perder a capacidade de ficar em pé sobre as patas traseiras."
+    },
+    {
+        "Numero": "003",
+        "Nome": "Venusaur",
+        "TipoPrimario": "Grama",
+        "TipoSecundario": "Veneno",
+        "Categoria": "Semente",
+        "Habilidade": "Overgrow",
+        "Descricao":"Sua planta floresce quando absorve energia solar. Ele permanece em movimento em busca da luz solar."
     }
 ]
