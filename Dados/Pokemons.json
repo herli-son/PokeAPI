@@ -4,26 +4,210 @@
         "Nome": "Bulbasaur",
         "TipoPrimario": "Grama",
         "TipoSecundario": "Veneno",
-        "Categoria": "Semente",
-        "Habilidade": "Overgrow",
-        "Descricao":"Há uma semente de planta nas costas desde o dia em que este Pokémon nasceu. A semente cresce lentamente."
+        "Descricao": "Há uma semente de planta nas costas desde o dia em que este Pokémon nasceu. A semente cresce lentamente."
     },
     {
         "Numero": "002",
         "Nome": "Ivysaur",
         "TipoPrimario": "Grama",
         "TipoSecundario": "Veneno",
-        "Categoria": "Semente",
-        "Habilidade": "Overgrow",
-        "Descricao":"Quando o bulbo em suas costas cresce, ele parece perder a capacidade de ficar em pé sobre as patas traseiras."
+        "Descricao": "Quando o bulbo em suas costas cresce, ele parece perder a capacidade de ficar em pé sobre as patas traseiras."
     },
     {
         "Numero": "003",
         "Nome": "Venusaur",
         "TipoPrimario": "Grama",
         "TipoSecundario": "Veneno",
-        "Categoria": "Semente",
-        "Habilidade": "Overgrow",
-        "Descricao":"Sua planta floresce quando absorve energia solar. Ele permanece em movimento em busca da luz solar."
+        "Descricao": "Sua planta floresce quando absorve energia solar. Ele permanece em movimento em busca da luz solar."
+    },
+    {
+        "Descricao": "Tem preferência por coiisas quentes. Quando chove, diz-se que o vapor sai da ponta da cauda.",
+        "Nome": "Charmander",
+        "Numero": "004",
+        "TipoPrimario": "Fogo",
+        "TipoSecundario": "Fogo"
+    },
+    {
+        "Numero": "005",
+        "Nome": "Charmeleon",
+        "TipoPrimario": "Fogo",
+        "TipoSecundario": "Fogo",
+        "Descricao": "Tem natureza bárbara. Em batalha, ele gira sua cauda de fogo e corta com garras afiadas."
+    },
+    {
+        "Numero": "006",
+        "Nome": "Charizard",
+        "TipoPrimario": "Fogo",
+        "TipoSecundario": "Vôo",
+        "Descricao": "Diz-se que o fogo do Charizard queima mais se tiver passado por duras batalhas."
+    },
+    {
+        "Numero": "007",
+        "Nome": "Squirtle",
+        "TipoPrimario": "Água",
+        "TipoSecundario": "Água",
+        "Descricao": "Quando retrai seu longo pescoço para dentro de seu casco, esquicha água com força vigorosa."
+    },
+    {
+        "Numero": "008",
+        "Nome": "Wartortle",
+        "TipoPrimario": "Água",
+        "TipoSecundario": "Água",
+        "Descricao": "É reconhecido como um símbolo de longevidade. Se sua concha contiver algas, este pokemon é muito antigo."
+    },
+    {
+        "Numero": "009",
+        "Nome": "Blastoise",
+        "TipoPrimario": "Água",
+        "TipoSecundario": "Água",
+        "Descricao": "Ele esmaga seu inimigo sob seu corpo pesado para causar desmaios. Em caso de emergência, ele se retrairá para dentro de sua concha."
+    },
+    {
+        "Numero": "010",
+        "Nome": "Caterpie",
+        "TipoPrimario": "Inseto",
+        "TipoSecundario": "Inseto",
+        "Descricao": "Para proteção, ele libera um cheiro horrível das antenas de sua cabeça para que o inimigo se afaste."
+    },
+    {
+        "Numero": "011",
+        "Nome": "Metapod",
+        "TipoPrimario": "Inseto",
+        "TipoSecundario": "Inseto",
+        "Descricao": "Está esperando o momento de evoluir. Nesta fase, ele só pode endurecer seu casulo, por isto permanece imóvel para evitar ataques."
+    },
+    {
+        "Numero": "012",
+        "Nome": "Butterfree",
+        "TipoPrimario": "Inseto",
+        "TipoSecundario": "Vôo",
+        "Descricao": "Ele adora néctar de flores e pode localizar mancha de flores que contenham até mesmo pequenas quantidades de pólen."
+    },
+    {
+      "Numero": "013",
+      "Nome": "Weedle",
+      "TipoPrimario": "Inseto",
+      "TipoSecundario": "Veneno",
+      "Descricao": "Cuidado com o ferrão afiado em sua cabeça. Esconde-se na grama e em arbustos onde come folhas."
+    },
+    {
+      "Numero": "014",
+      "Nome": "Kakuna",
+      "TipoPrimario": "Inseto",
+      "TipoSecundario": "Veneno",
+      "Descricao": "Capaz de se mover apenas ligeiramente. Quando ameeaçado, pode esticar seu ferrão e envenenar o inimigo."
+    },
+    {
+      "Numero": "015",
+      "Nome": "Beedrill",
+      "TipoPrimario": "Inseto",
+      "TipoSecundario": "Tóxico",
+      "Descricao": "Possui três ferrões venenosos nas patas dianteiras e na cauda. Eles são usados para atacar repetidamente o inimigo."
+    },
+    {
+      "Numero": "016",
+      "Nome": "Pidgey",
+      "TipoPrimario": "Normal",
+      "TipoSecundario": "Vôo",
+      "Descricao": "Muito dócil. Se for atacado, muitas vezes levanta areia para se proteger, em vez de revidar."
+    },
+    {
+      "Numero": "017",
+      "Nome": "Pidgeotto",
+      "TipoPrimario": "Normal",
+      "TipoSecundario": "Vôo",
+      "Descricao": "Este pokemon é cheio de peculiaridades. Ele voa consantemente pelo seu grande território em busca de presas."
+    },
+    {
+      "Numero": "018",
+      "Nome": "Pidgeot",
+      "TipoPrimario": "Normal",
+      "TipoSecundario": "Vôo",
+      "Descricao": "Ele voa na velocidade Mach2 em busca de presas. Suas grandes garras são temidas comoo armas malignas."
+    },
+    {
+      "Numero": "019",
+      "Nome": "Rattata",
+      "TipoPrimario": "Normal",
+      "TipoSecundario": "Normal",
+      "Descricao": "Mastigará qualquer coisa com suas presas. Se você ver um, pode ter certeza de que mais quarenta vivem na área."
+    },
+    {
+      "Numero": "020",
+      "Nome": "Raticate",
+      "TipoPrimario": "Normal",
+      "TipoSecundario": "Normal",
+      "Descricao": "Suas patas traseiras são palmadas. Elas agem como nadadeiras, para que possam nadar em rios e caçar presas."
+    },
+    {
+      "Numero": "021",
+      "Nome": "Spearow",
+      "TipoPrimario": "Normal",
+      "TipoSecundario": "Vôo",
+      "Descricao": "Incapaz de voar muito alto. No entanto, pode voar muito rápido para proteger o seu território."
+    },
+    {
+      "Numero": "022",
+      "Nome": "Fearow",
+      "TipoPrimario": "Normal",
+      "TipoSecundario": "Vôo",
+      "Descricao": "Um pokemon que remonta muitos anos. Se sentir perigo, ele voa alto e para longe imediatamente."
+    },
+    {
+      "Numero": "023",
+      "Nome": "Ekans",
+      "TipoPrimario": "Tóxico",
+      "TipoSecundario": "Tóxico",
+      "Descricao": "Quanto mais velho fica, mais cresce. A noite envolve seu longo corpo em árvores para descansar."
+    },
+    {
+      "Numero": "024",
+      "Nome": "Arbok",
+      "TipoPrimario": "Tóxico",
+      "TipoSecundario": "Tóxico",
+      "Descricao": "Os padões assustadores em sua barriga foram estudasos. Seis variações foram confirmadas."
+    },
+    {
+      "Numero": "025",
+      "Nome": "Pikachu",
+      "TipoPrimario": "Elétrico",
+      "TipoSecundario": "Elétrico",
+      "Descricao": "Quando está com raiva, imediatamente descarrega a energia armazenada em suas bochechas rechonchudas."
+    },
+    
+    {
+      "Numero": "026",
+      "Nome": "Raichu",
+      "TipoPrimario": "Elétrico",
+      "TipoSecundario": "Elétrico",
+      "Descricao": "Sua cauda descarrega eletricidade no solo, o protegendo de choques."
+    },
+    {
+      "Numero": "027",
+      "Nome": "Sandshrew",
+      "TipoPrimario": "Terrestre",
+      "TipoSecundario": "Terrestre",
+      "Descricao": "Adora se banhar em solo seco e arenoso. Ao tomar banho de areia, o pokemon se livra da sujeira e da umidade guardada em seu corpo."
+    },
+    {
+      "Numero": "028",
+      "Nome": "Sandslash",
+      "TipoPrimario": "Terrestre",
+      "TipoSecundario": "Terrestre",
+      "Descricao": "Quanto mais seca a região onde o pokemon vive, mas rígidas e macias suas escamas serão ao toque."
+    },
+    {
+      "Numero": "029",
+      "Nome": "Nidoran",
+      "TipoPrimario": "Terrestre",
+      "TipoSecundario": "Terrestre",
+      "Descricao": "As fêmeas são mais sensíveis aos cheiros do que os machos. Enquanto procuram alimentos, eles usam seus bigodes para verificar a direção do vento e ficar na direção do vento em relação aos predadores.."
+    },
+    {
+      "Numero": "030",
+      "Nome": "Nidorina",
+      "TipoPrimario": "Tóxico",
+      "TipoSecundario": "Tóxico",
+      "Descricao": "O chifre em sua cabeça é atrofiado. Acredita-se que isso aconteça para que os filhos de Nidorina não sejam cutucados enquanto a mãe os alimenta.."
     }
 ]
